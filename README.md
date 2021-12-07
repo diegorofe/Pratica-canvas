@@ -1,6 +1,6 @@
 #UTILIZANDO O CANVAS📙
 
-    ###OBJETIVO
+##OBJETIVO
 
 O meu objetivo com estes exercícios é apreder a desenhar em tela utilizando o "<canvas>" para criar um web APP que simule o gráfico de códigos G (CNC).
 
